@@ -1,5 +1,4 @@
-# Part 1 - Purchase Data Analysis- KPIs
-# Online Purchase Data Analysis - KPIs
+# Part 1 - Retail Data Purchase Analytics- KPIs
  
 * **This notebook contains the dataset of an online retail. It is the Part 1 of the analysis series based this dataset**
 * **My aim is to explore this dataset and measure the important KPIs commonly used to see the past trends, identify the gaps and make the decisions critical to the future business.**
