@@ -6,10 +6,10 @@
 * **This interesting dataset is also used in other notebooks to analyze Cohort Based Retention Rate, Customer Lifetime Value (CLV) and Customer Segmentation.**
 
 * **KPIs:**
-    **1. Monthly Revenue**
-    **2. Monthly Revenue Growth Rate**
-    **3. Monthly Active Customers**
-    **4. Monthly Order Count**
-    **5. Monthly Revenue Per Order**
-    **6. Average Monthly Revenue Per Order**
-    **7. Monthly Revenue from New and Existing Customers**
+   * **1. Monthly Revenue**
+   * **2. Monthly Revenue Growth Rate**
+   * **3. Monthly Active Customers**
+   * **4. Monthly Order Count**
+   * **5. Monthly Revenue Per Order**
+   * **6. Average Monthly Revenue Per Order**
+   * **7. Monthly Revenue from New and Existing Customers**
